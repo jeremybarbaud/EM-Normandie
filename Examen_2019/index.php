@@ -15,26 +15,20 @@
     <!-- Début du menu -->
     <nav>
       <ul class="nav">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Services</a>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#">A propos</a></li>
+        <li><a href="#">Contact</a>
           <ul>
             <li><a href="">dropdown1</a></li>
             <li><a href="">dropdown2</a></li>
             <li><a href="">dropdown3</a></li>
           </ul>
         </li>
-        <li><a href="#">Gallery</a></li>
+        <li><a href="#">Galerie</a></li>
         <li><a href="#">Blog</a></li>
       </ul>
     </nav>
     <!-- Fin du menu -->
-
-    <form method="get" action="#">
-      <label>Search for:</label>
-      <input type="text" />
-      <input type="submit" value="Search" />
-    </form>
   </div>
 </header>
 <!-- Fin du header -->
@@ -69,7 +63,7 @@
 <!-- Début du footer -->
 <footer class="footer contentinfo">
   <small>
-    &copy; 2019 by SITE TITLE. 
+    &copy; 2019 par SITE TITLE. 
   </small>
 </footer>
 </body> 
